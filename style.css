@@ -1,0 +1,26 @@
+body {
+    background-color: bisque;
+    color: brown;
+}
+
+h1 {
+    width: 250px;
+    height: auto;
+}
+
+header p{
+    width: 300px;
+    height: auto;
+}
+
+a {
+    color: black;
+}
+
+nav {
+    padding: 10px 20px 5px 20px;
+}
+
+hr {
+    border: 1px double black;
+}
